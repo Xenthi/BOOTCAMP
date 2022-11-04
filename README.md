@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Xenthi
+- 👋 Hi, I’m Çağrı Osman Ediz
 - 👀 I’m interested in programming,coding,playing video games
 - 🌱 I’m currently studying computer engineering.
 - 💞️ I’m looking to collaborate on ...
