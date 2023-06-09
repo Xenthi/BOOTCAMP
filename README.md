@@ -1,8 +1,3 @@
-- 👋 Hi, I’m Çağrı Osman Ediz
-- 👀 I’m interested in programming,coding,playing video games
-- 🌱 I’m currently studying computer engineering.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 
 <!---
 Xenthi/Xenthi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
